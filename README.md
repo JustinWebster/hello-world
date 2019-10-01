@@ -1,2 +1,2 @@
 # hello-world
-git tut
+Hello git hub
